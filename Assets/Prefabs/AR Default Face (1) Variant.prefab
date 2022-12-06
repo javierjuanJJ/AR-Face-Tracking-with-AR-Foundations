@@ -9,7 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6187097273041490322, guid: 7ddb9f12e5605744b81953899515720f, type: 3}
       propertyPath: m_Name
-      value: AR Default Face (1)
+      value: AR Default Face (1) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6187097273041490322, guid: 7ddb9f12e5605744b81953899515720f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6522873124708991141, guid: 7ddb9f12e5605744b81953899515720f, type: 3}
       propertyPath: m_RootOrder
